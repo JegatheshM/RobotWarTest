@@ -1,0 +1,54 @@
+﻿@model RobotBusiness.Model.FinalPositionModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>Robot War Test</h2>
+</div>
+
+@using (Html.BeginForm("FindPosition", "Home", FormMethod.Post))
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            <ul>
+                <li>
+                    <ul>
+                        <li>
+                            <label> Initial Position </label>
+                        </li>
+                        <li>
+                            @Html.TextBoxFor(m => m.InitialPosition)
+
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                        <li>
+                            <label> Movement Instruction </label>
+                        </li>
+                        <li>
+                            @Html.TextBoxFor(m => m.Position)
+
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                        <li></li>
+                        <li>
+                            <div class="form-group">
+                                <div class="col-md-offset-1">
+                                      <input type="submit" value="Submit" />
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+}

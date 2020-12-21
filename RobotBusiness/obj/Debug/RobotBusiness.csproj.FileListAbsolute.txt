@@ -1,0 +1,12 @@
+F:\Projects\RobotWarTest\RobotBusiness\bin\Debug\RobotBusiness.dll
+F:\Projects\RobotWarTest\RobotBusiness\bin\Debug\RobotBusiness.pdb
+F:\Projects\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.csprojAssemblyReference.cache
+F:\Projects\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.csproj.CoreCompileInputs.cache
+F:\Projects\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.dll
+F:\Projects\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.pdb
+F:\Projects\RobotWarTest_old\RobotWarTest\RobotBusiness\bin\Debug\RobotBusiness.dll
+F:\Projects\RobotWarTest_old\RobotWarTest\RobotBusiness\bin\Debug\RobotBusiness.pdb
+F:\Projects\RobotWarTest_old\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.csprojAssemblyReference.cache
+F:\Projects\RobotWarTest_old\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.csproj.CoreCompileInputs.cache
+F:\Projects\RobotWarTest_old\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.dll
+F:\Projects\RobotWarTest_old\RobotWarTest\RobotBusiness\obj\Debug\RobotBusiness.pdb
