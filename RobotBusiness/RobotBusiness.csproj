@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helper\RobotMovement.cs" />
+    <Compile Include="Helper\RobotSquare.cs" />
     <Compile Include="Implementation\FindPositionBo.cs" />
     <Compile Include="Interface\IFindPositionBo.cs" />
     <Compile Include="Model\FinalPositionModel.cs" />
